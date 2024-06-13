@@ -1,0 +1,10 @@
+import numpy as np
+import SciPy
+
+print("this is a test, to setup Github")
+
+x = np.zeros(10)
+for i in range(len(x)):
+  x[i] = i
+
+print(x)
